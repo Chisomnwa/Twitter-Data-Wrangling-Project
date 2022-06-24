@@ -35,7 +35,7 @@ Gather each of the three pieces of data as described below in a Jupyter Notebook
 
 ## Assessing the Data for this Project
 
-After gathering each of the above pieces of data, assess them visually and programmatically for quality and tidiness issues. Detect and document at least eight (8) quality issues and two (2) tidiness issues in your wrangle_act.ipynb Jupyter Notebook. To meet specifications, the issues that satisfy the below mentioned Key Points must be assessed.
+After gathering all three pieces of data, assess them visually and programmatically for quality and tidiness issues. Detect and document at least **eight (8) quality issues** and **two (2) tidiness issues** in the "Accessing Data" section in the `wrangle_act.ipynb` Jupyter Notebook.
 
 ## Key Points
 
@@ -53,8 +53,11 @@ Key points to keep in mind when data wrangling for this project:
 
 ## Cleaning the Data for this Project
 
-Clean each of the issues you documented while assessing. Perform this cleaning in wrangle_act.ipynb as well. The result should be a high quality and tidy master pandas DataFrame (or DataFrames, if appropriate).
+In the Analyzing and Visualizing Data section in your wrangle_act.ipynb Jupyter Notebook, analyze and visualize your wrangled data.
 
+ - You must produce at least three (3) insights and one (1) visualization.
+ - You must clearly document the piece of assessed and cleaned (if necessary) data used to make each analysis and visualization.
+ 
 ## Storing, Analyzing, and Visualizing Data for this Project
 
 Store the clean DataFrame(s) in a CSV file with the main one named twitter_archive_master.csv. If additional files exist because multiple tables are required for tidiness, name these files appropriately. Additionally, you may store the cleaned data in a SQLite database.
@@ -67,4 +70,4 @@ Create a 300-600 word written report called wrangle_report.pdf that briefly desc
 
 ## Medium Blog on this Project
 
-You can also read my blog post on this project.
+You can also read my [blog](https://medium.com/@chisompromise/twitter-data-analysis-weratedogs-1fb8b65da7fa) post on this project and feel free to connect with me on [Linkedin](https://www.linkedin.com/in/chisom-promise/).
